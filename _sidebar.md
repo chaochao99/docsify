@@ -1,6 +1,6 @@
 - [系统指南](/README)
+- [YApi](/YApi)
 
-- [YApi](/yapi)
-
-- [info-首页](info/)
+- [info-首页](info/readme)
 - [info-历史](info/history)
+
