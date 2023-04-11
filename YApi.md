@@ -1,6 +1,6 @@
 ---
-typora-root-url: C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images
 typora-copy-images-to: image\YApi
+typora-root-url: ./
 ---
 
 # 接口文档管理工具部署测试
@@ -34,7 +34,7 @@ Apigee API Management | Google Cloud
 
 # 图片上传测试
 
-![image-20230407163207790](/../../../../../../../image/YApi/image-20230407163207790.png)
+![image-20230407163207790](/image/YApi/image-20230407163207790.png)
 
 ## 标题2
 
@@ -54,3 +54,4 @@ Apigee API Management | Google Cloud
 
 # pdf测试
 <iframe height="500px" width="100%"  src="video/linux操作系统实验指导书.pdf">
+
