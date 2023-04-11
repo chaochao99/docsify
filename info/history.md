@@ -1,9 +1,11 @@
 ---
-typora-root-url: ..
+typora-root-url: ..\image
 ---
 
 # 历史
 
 这是历史页面
 
-![image-20230407163207790](/image/YApi/image-20230407163207790.png)
+
+
+![image-20230411180835946](/image-20230411180835946.png)
