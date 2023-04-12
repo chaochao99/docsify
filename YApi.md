@@ -1,5 +1,5 @@
 ---
-typora-root-url: image
+typora-root-url: ./
 ---
 
 # 接口文档管理工具部署测试
@@ -27,7 +27,7 @@ Apigee API Management | Google Cloud
 
     Mongodb服务启动成功，访问http://localhost:27017/测试，如下图即启动成功：
 
-    ![image-20230314094809921](/image-20230314094809921.png)
+    ![image-20230314094809921](/image/image-20230314094809921.png)
 
 # 图片上传测试
 
